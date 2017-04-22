@@ -1,0 +1,4 @@
+<?php
+
+printinfo();
+php>
